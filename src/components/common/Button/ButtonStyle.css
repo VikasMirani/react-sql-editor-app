@@ -1,0 +1,11 @@
+.MuiButton-root.primary-btn, .MuiButton-root.primary-btn:active, .MuiButton-root.primary-btn:hover {
+    color: #fff;
+    background-color: rebeccapurple;
+}
+.btn-icn {
+    height: 1.25rem;
+    width: 1.25rem;
+    color: #fff;
+    vertical-align: middle;
+    margin-right: 10px;
+}

@@ -1,0 +1,20 @@
+.foot-bg {
+    background-color: rebeccapurple;
+    position: fixed;
+    bottom: 0px;
+    z-index: 99;
+}
+.foot-title {
+    color: #fff;
+}
+.foot-a {
+    color: #fff;
+    /* text-decoration: none; */
+}
+.lov-icon {
+    height: 1.25rem;
+    width: 1.25rem;
+    color: #fff;
+    vertical-align: middle;
+    margin: 0 5px;
+}

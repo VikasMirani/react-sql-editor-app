@@ -1,0 +1,12 @@
+.head-title {
+    color: #fff;
+}
+.MuiPaper-root.head-bg {
+    background-color: rebeccapurple;
+    position: fixed;
+    width: 100%;
+    top: 0px;
+    border-radius: 0px;
+    padding: 10px 0;
+    z-index: 99;
+}
